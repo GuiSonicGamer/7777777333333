@@ -1,0 +1,16 @@
+#contact iframe
+{
+    width: 100%;
+}
+.viagem_mainDIV
+{
+    border: 1px solid lightgray;
+}
+.viagem_mainDIV img
+{
+    width: 100%;
+}
+.viagem_mainDIV h5 , .viagem_mainDIV p
+{
+    margin: 20px;
+}
